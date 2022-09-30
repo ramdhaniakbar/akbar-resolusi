@@ -7,6 +7,7 @@ RENCANA AKBAR
   * Framework Javascript
     ^ NodeJS
     ^ ExpressJS
+    ^ React
 - Mempelajari Java
 - Membuat cart shop
 - Memiliki hati crush
