@@ -3,6 +3,12 @@ RENCANA AKBAR
 - Mempelajari Flutter
   * UI Design
   * Consume API
-- Membuat cart shop
+- Mempelajari Javascript
+  * Framework Javascript
+    ^ NodeJS
+    ^ ExpressJS
+    ^ Vue
+    ^ Angular
+- Mempelajari Java
 - Memiliki hati crush
 - Interview
