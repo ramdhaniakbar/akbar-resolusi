@@ -3,5 +3,6 @@ RENCANA AKBAR
 - Mempelajari Flutter
   * UI Design
   * Consume API
+- Membuat cart shop
 - Memiliki hati crush
 - Interview
