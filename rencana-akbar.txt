@@ -7,8 +7,8 @@ RENCANA AKBAR
   * Framework Javascript
     ^ NodeJS
     ^ ExpressJS
-    ^ Vue
-    ^ Angular
+    ^ React
 - Mempelajari Java
+- Membuat cart shop
 - Memiliki hati crush
 - Interview
