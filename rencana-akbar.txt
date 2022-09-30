@@ -1,0 +1,7 @@
+RENCANA AKBAR
+
+- Mempelajari Flutter
+  * UI Design
+  * Consume API
+- Memiliki hati crush
+- Interview
